@@ -1,0 +1,15 @@
+{
+    "name": "timmy010/fake-post",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Timmy010\\FakePost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Timmy010"
+        }
+    ],
+    "require": {}
+}
