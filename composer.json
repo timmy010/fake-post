@@ -11,5 +11,7 @@
             "name": "Timmy010"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
